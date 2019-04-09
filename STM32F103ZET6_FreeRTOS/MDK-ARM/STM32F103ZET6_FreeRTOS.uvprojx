@@ -444,9 +444,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::CMSIS</GroupName>
-        </Group>
-        <Group>
           <GroupName>Application/User</GroupName>
           <Files>
             <File>
@@ -473,6 +470,11 @@
               <FileName>stm32f1xx_hal_msp.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Src/stm32f1xx_hal_msp.c</FilePath>
+            </File>
+            <File>
+              <FileName>thread_led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\thread_led.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -545,6 +547,9 @@
               <FilePath>startup_stm32f103xe.s</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::CMSIS</GroupName>
         </Group>
       </Groups>
     </Target>
