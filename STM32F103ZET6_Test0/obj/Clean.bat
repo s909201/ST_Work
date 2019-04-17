@@ -8,4 +8,5 @@ del *.htm
 del *.map
 del *.sct
 del *.dep
+del *.lst
 
