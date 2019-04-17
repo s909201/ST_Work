@@ -1,20 +1,19 @@
 # ST MCU Project
-- IDE-Version:
-μVision V5.27.1.0
-Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+# IDE-Version:
+- Vision V5.27.1.0
 
-- Tool Version Numbers:
-Toolchain:        MDK-Lite  Version: 5.27.1.0
-Toolchain Path:    C:\Keil_v5\ARM\ARMCC\Bin
-C Compiler:         Armcc.exe        V5.06 update 6 (build 750)
-Assembler:          Armasm.exe        V5.06 update 6 (build 750)
-Linker/Locator:     ArmLink.exe        V5.06 update 6 (build 750)
-Library Manager:    ArmAr.exe        V5.06 update 6 (build 750)
-Hex Converter:      FromElf.exe        V5.06 update 6 (build 750)
-CPU DLL:               SARMCM3.DLL          V5.27.1.0
-Dialog DLL:         TCM.DLL              V1.36.1.0
-Target DLL:             STLink\ST-LINKIII-KEIL_SWO.dll      V3.0.6.0
-Dialog DLL:         TCM.DLL              V1.36.1.0
+# Tool Version Numbers:
+- Toolchain:        MDK-Lite  Version: 5.27.1.0
+- Toolchain Path:    C:\Keil_v5\ARM\ARMCC\Bin
+- C Compiler:         Armcc.exe        V5.06 update 6 (build 750)
+- Assembler:          Armasm.exe        V5.06 update 6 (build 750)
+- Linker/Locator:     ArmLink.exe        V5.06 update 6 (build 750)
+- Library Manager:    ArmAr.exe        V5.06 update 6 (build 750)
+- Hex Converter:      FromElf.exe        V5.06 update 6 (build 750)
+- CPU DLL:               SARMCM3.DLL          V5.27.1.0
+- Dialog DLL:         TCM.DLL              V1.36.1.0
+- Target DLL:             STLink\ST-LINKIII-KEIL_SWO.dll      V3.0.6.0
+- Dialog DLL:         TCM.DLL              V1.36.1.0
 
 
 
