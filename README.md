@@ -23,6 +23,7 @@
 - 20190409 : add example project - STM32F103ZET6_FreeRTOS for freeRTOS test
 - 20190409 : add LED thread program
 - 20190417 : rebuild all projects again, modify clean.bat, add version information to readme.md
+- 20190426 : add STM32H743ZI_FreeRTOS project
 
 
 
