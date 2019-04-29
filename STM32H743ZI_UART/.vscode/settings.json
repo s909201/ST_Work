@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32h7xx_hal_def.h": "c",
+        "stm32h7xx_hal.h": "c",
+        "task_led.h": "c"
+    }
+}

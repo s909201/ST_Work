@@ -15,8 +15,6 @@
 - Target DLL:             STLink\ST-LINKIII-KEIL_SWO.dll      V3.0.6.0
 - Dialog DLL:         TCM.DLL              V1.36.1.0
 
-
-
 # Revision History
 - 20190408 : add example project - STM32F103ZET6_Test0 for GPIO test
 - 20190409 : update STM32F103ZET6_Test0, set project list output
@@ -24,7 +22,7 @@
 - 20190409 : add LED thread program
 - 20190417 : rebuild all projects again, modify clean.bat, add version information to readme.md
 - 20190426 : add STM32H743ZI_FreeRTOS project
-
+- 20190429 : add STM32H743ZI_UART project, UART test
 
 
 
