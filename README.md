@@ -3,12 +3,12 @@
 # Environment
 | Name               | Detail        | Version |
 | :----------------- | :------------ | :------ |
-| OS                 | Windows       | 7, 10   |
-| IDE                | Keil MDK-ARM  | 5.24.2  |
-| Keil Software Pack | STM32H7xx DFP | 2.2.0   |
-| Compiler           | ARMCC         | 5.06    |
-| Code Generator     | STM32CubeMX   | 5.2.0   |
-| Official Library   | STM32H7 HAL   | 1.4.0   |
+| OS                 | Windows       | 10   |
+| IDE                | Keil MDK-ARM  | 5.28.0  |
+| Keil Software Pack | STM32H7xx DFP | 2.3.1   |
+| Compiler           | ARMCC         | 5.06(build 750)    |
+| Code Generator     | STM32CubeMX   | 5.3.0   |
+| Firmware Package   | STM32Cube FW_H7   | V1.5.0   |
 
 # Revision History
 - 20191125 : add STM32H743ZI_FreeRTOS_V2 project
