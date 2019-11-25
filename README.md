@@ -11,6 +11,7 @@
 | Official Library   | STM32H7 HAL   | 1.4.0   |
 
 # Revision History
+- 20191125 : add STM32H743ZI_FreeRTOS_V2 project
 - 20190408 : add example project - STM32F103ZET6_Test0 for GPIO test
 - 20190409 : update STM32F103ZET6_Test0, set project list output
 - 20190409 : add example project - STM32F103ZET6_FreeRTOS for freeRTOS test
